@@ -1,3 +1,3 @@
-# Research on the use of Big-Data-Analytics-in-the-OTT-Industry
+# Research on the use of Big Data Analytics in the OTT Industry in Platforms like Disney+ Hotstar, Netflix And Amazon Prime
 The maturation of OTT streaming services has led to a manifold increase in content consumption across the globe. This research makes use of big data analytics to analyse and visualize movie and show ratings across three major platforms, Amazon Prime Video, Netflix and Disney+Hotstar. By using R’s ggplot2 package, the study unveils patterns related to ratings, awards, region and more. By analysing vast datasets, the providers can increase variety, make amends to the pricing model, and manage the platform in a more efficient manner. The paper also delves into the challenges faced by these platforms such as catering to a multi-lingual 
 audience. This research highlighting the important role that big data plays in shaping the future of digital media consumption.
